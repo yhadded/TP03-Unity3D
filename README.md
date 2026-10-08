@@ -25,12 +25,4 @@ Pour tout régénérer : menu **TP03 → Build everything**.
 Scène Bezier : clic gauche + glisser pour déplacer un point, N pour ajouter un point, Retour arrière pour en retirer un.
 Scène Forest : flèches haut / bas pour la vitesse, R pour recommencer.
 
-## Personnage et monstre (Ex 4 et 5)
-1. Asset Store (gratuits) : **RPG Tiny Hero Duo PBR Polyart** (joueur) et **RPG Monster Duo PBR Polyart** (monstre), puis *Package Manager → My Assets → Download → Import*.
-2. Dans la fenêtre Project, sélectionner le prefab du personnage → menu **TP03 → Use selected model as Player**.
-3. Sélectionner le prefab du monstre → **TP03 → Use selected model as Monster**.
 
-Les animations (Idle, Run, Jump, Attack, Hit, Die) sont assignées automatiquement.
-
-## Vidéo (Ex 7)
-*Window → Package Manager → Unity Registry → Recorder → Install*, puis *Window → General → Recorder → Recorder Window → Add Recorder → Movie*. Ouvrir la scène `Forest`, appuyer sur H pour cacher l'interface, puis Start Recording.
