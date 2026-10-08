@@ -1,7 +1,6 @@
 # TP03 — Unity 3D (ST2OOS)
+https://github.com/yhadded/TP03-Unity3D.git
 
-Unity 6, nouveau Input System. Au premier lancement, `Assets/Editor/TP03Builder.cs` génère automatiquement les 3 scènes.
-Pour tout régénérer : menu **TP03 → Build everything**.
 
 | Scène | Exercices |
 |---|---|
